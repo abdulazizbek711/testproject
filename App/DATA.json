@@ -1,0 +1,36 @@
+{
+  "Records": [
+    {
+      "UserId": "1",
+      "Pan": "1234123412341231",
+      "ExpDate": "10/11/2017",
+      "Name": "Andrey",
+      "SecondName": "Andreev",
+      "Number": "1113131231113"
+    },
+    {
+      "UserId": "2",
+      "Pan": "1234123412341232",
+      "ExpDate": "20/11/2017",
+      "Name": "Andrey",
+      "SecondName": "Andreev",
+      "Number": "1113131231113"
+    },
+    {
+      "UserId": "3",
+      "Pan": "1234123412341233",
+      "ExpDate": "30/11/2017",
+      "Name": "Andrey",
+      "SecondName": "Andreev",
+      "Number": "1113131231113"
+    },
+    {
+      "UserId": "4",
+      "Pan": "1234123412341234",
+      "ExpDate": "24/11/2017",
+      "Name": "Andrey",
+      "SecondName": "Andreev",
+      "Number": "1113131231113"
+    }
+  ]
+}

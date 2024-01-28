@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Cards>
+    <Card UserId="1">
+        <Pan>1234123412341231</Pan>
+        <ExpDate>10/11/2017</ExpDate>
+    </Card>
+    <Card UserId="2">
+        <Pan>1234123412341232</Pan>
+        <ExpDate>20/11/2017</ExpDate>
+    </Card>
+    <Card UserId="3">
+        <Pan>1234123412341233</Pan>
+        <ExpDate>30/11/2017</ExpDate>
+    </Card>
+    <Card UserId="4">
+        <Pan>1234123412341234</Pan>
+        <ExpDate>24/11/2017</ExpDate>
+    </Card>
+</Cards>
